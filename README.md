@@ -31,7 +31,7 @@
 | Nov 18, 2016 | [NodeConf Barcelona](http://barcelona.nodeconf.com/) | Barcelona, Spain | [Aug 31, 2016](https://www.papercall.io/nodeconf-barcelona-2016) | [@nodeconfbcn](https://twitter.com/nodeconfbcn) |
 | Nov 20-21, 2016 | [Nodevember](http://nodevember.org/) | Nashville, TN | [Aug 16, 2016](https://www.papercall.io/nodevember2016) | [@nodevember](https://twitter.com/nodevember)
 | Nov 24, 2016 | [CSSConf Asia](http://2016.cssconf.asia/) | Singapore, Singapore | [Open](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | [@cssconfasia](https://twitter.com/cssconfasia)
-| Nov 25-26, 2016 | [JSConf Asia](https://2016.jsconf.asia/) | Singapore, Singapore |k [Open](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | [@jsconfasia](https://twitter.com/jsconfasia) |
+| Nov 25-26, 2016 | [JSConf Asia](https://2016.jsconf.asia/) | Singapore, Singapore | [Open](https://jsconfasia.wufoo.com/forms/cssconf-and-jsconfasia/) | [@jsconfasia](https://twitter.com/jsconfasia) |
 | Nov 28-29, 2016 | [JS Kongress](https://js-kongress.de/) | Munich, Germany | Closed | [@jskongress](https://twitter.com/jskongress) |
 | Nov 30, 2016 | [CSS Conf AU](http://2016.cssconf.com.au/) | Melbourne, Australia | Closed | [@cssconfau](https://twitter.com/cssconfau) |
 | Dec 01, 2016 | [JSConf AU](https://2016.jsconfau.com/) | Melbourne, Australia | Closed | [@jsconfau](https://twitter.com/jsconfau) |
