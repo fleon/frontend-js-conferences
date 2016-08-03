@@ -2,6 +2,8 @@
 
 ### Attend and Speak
 
+A list of conferences for Front-end / Javascript developers to attend and speak at. The list will be kept up-to-date as conferences are announced and call-for-proposals open up. Follow the conferences' individual twitter accounts for instant updates.
+
 | Date | Conference  	| Location   	| CFP Due By  	| Twitter   	|
 |---	|---	|---	|---	|---	|
 | Aug 07, 2016 | [CSS Conf AR](http://cssconfar.com/) | Buenos Aires, Argentina | Closed | [@CSS_Conf_AR](https://twitter.com/CSS_Conf_AR) |
