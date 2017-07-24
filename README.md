@@ -43,3 +43,4 @@ A list of conferences for Front-end / Javascript developers to attend and speak 
 | May 10-11, 2017 | [jsDay Italy](http://2017.jsday.it/) | Verona, Italy | [Jan 31, 2017](http://cfp.jsday.it/) | [@jsconfit](https://twitter.com/jsconfit)
 | Jul 06-09, 2017 | [NodeConf](http://nodeconf.com/) | Petaluma, CA | NA | [@nodeconf](https://twitter.com/nodeconf) |
 | Jul 12-14, 2017 | [Full Stack Conf](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things#overview) | London, England | Not Open Yet | [@skillsmatter](https://twitter.com/skillsmatter) |
+| Oct 12-13, 2017 | [EmberFest](https://emberfest.eu/) | Berlin, Germany | [Aug 31, 2017](https://cfp.emberfest.eu/events/emberfest-2017) | [@EmberFest](https://twitter.com/emberfest)
